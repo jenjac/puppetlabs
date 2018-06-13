@@ -1,0 +1,3 @@
+[submodule "code/modules/puppet-launchd"]
+	path = code/modules/puppet-launchd
+	url = https://github.com/macadmins/puppet-launchd.git
